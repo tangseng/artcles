@@ -5,3 +5,4 @@
 日期 | 内容标题
 ------------ | -------------
 2018-01-07 | [页面初始化过程中，处理多组件依赖的思考](https://github.com/tangseng/artcles/blob/master/[2018-01-07]页面初始化过程中，处理多组件依赖的思考.md)
+2018-01-28 | [AST在前端开发中的应用](https://github.com/tangseng/artcles/blob/master/[2018-01-28]AST在前端开发中的应用.md)
