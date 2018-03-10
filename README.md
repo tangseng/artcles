@@ -6,3 +6,4 @@
 ------------ | -------------
 2018-01-07 | [页面初始化过程中，处理多组件依赖的思考](https://github.com/tangseng/artcles/blob/master/[2018-01-07]页面初始化过程中，处理多组件依赖的思考.md)
 2018-01-28 | [AST在前端开发中的应用](https://github.com/tangseng/artcles/blob/master/[2018-01-28]AST在前端开发中的应用.md)
+2018-03-10 | [在angularjs项目中实现类似Vue的组件书写方式和Vuex的数据管理能力](https://github.com/tangseng/artcles/blob/master/[2018-03-10]在angularjs项目中实现类似Vue的组件书写方式和Vuex的数据管理能力.md)
