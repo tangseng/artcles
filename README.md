@@ -11,9 +11,14 @@
 > 在公司做了一次分享...算补上一篇吧...  
 > 真的是忙...
 
+#### [2019-06-01]时间过的真的真的真的好快...
+> 前几天在新团队做的分享，也是露个脸吧...  
+> 今天是儿童节，小家伙的第一个儿童节~ ^_^
+
 日期 | 内容标题
 ------------ | -------------
 2018-01-07 | [页面初始化过程中，处理多组件依赖的思考](https://github.com/tangseng/artcles/blob/master/[2018-01-07]页面初始化过程中，处理多组件依赖的思考.md)
 2018-01-28 | [AST在前端开发中的应用](https://github.com/tangseng/artcles/blob/master/[2018-01-28]AST在前端开发中的应用.md)
 2018-03-10 | [在angularjs项目中实现类似Vue的组件书写方式和Vuex的数据管理能力](https://github.com/tangseng/artcles/blob/master/[2018-03-10]在angularjs项目中实现类似Vue的组件书写方式和Vuex的数据管理能力.md)
 2018-06-26 | [vue-cli3原理分析与插件开发](https://github.com/tangseng/artcles/blob/master/[2018-06-26]vue-cli3原理分析与插件开发.md)
+2019-06-01 | [umi插件](https://github.com/tangseng/artcles/blob/master/[2019-06-01]umi插件.md)
